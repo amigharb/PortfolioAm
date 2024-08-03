@@ -36,4 +36,11 @@
       "last 1 safari version"
     ]
   }
+  {
+  "name": "portfolio",
+  "scripts": {
+    "build": "babel src -d lib",
+    "test": "jest"
+  }
+}
 }
